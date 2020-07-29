@@ -24,7 +24,7 @@ public class UploadInfoIntoSpreadSheetServiceImpl implements UploadInfoIntoSprea
      * Global instance of the SpreadSheet_Id
      */
     private static final String SPREADSHEET_ID =
-            "1dpDy7PdY_9oRwU1Dz__r8KA7Na-XIkV8_KCo1oWba2g";
+            "write your spreadsheet_id here";
 
 
     @Override

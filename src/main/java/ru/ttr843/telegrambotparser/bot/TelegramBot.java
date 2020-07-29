@@ -22,12 +22,12 @@ public class TelegramBot extends TelegramLongPollingBot {
     /**
      * Global instance of the BOT_NAME
      */
-    private static final String BOT_NAME = "p2p_echange_parsing_bot";
+    private static final String BOT_NAME = "write your bot_name here";
 
     /**
      * Global instance of the BOT_TOKEN
      */
-    private static final String BOT_TOKEN = "1078349858:AAHIKYEW0fd-EsDKHemHzmojjocsmjeD5vE";
+    private static final String BOT_TOKEN = "Write your bot_token here";
 
 
     @SneakyThrows
